@@ -1,6 +1,12 @@
 package co.vinni.dto;
 
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+
 
 
 
